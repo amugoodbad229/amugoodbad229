@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ayman, full name Ayman Khan
+- 👀 I’m interested in physics, math, games, music, films, anime, designing software
+- 🌱 I’m currently learning python programming 
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 How to reach me www.linkedin.com/in/ayman-khan149
