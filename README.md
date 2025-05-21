@@ -44,5 +44,5 @@
 
 <h3>My most recent articles</h3>
 <ul>
-  <li><a href="[https://medium.com/@regondaakhil1509/getting-started-with-react-a-beginners-guide-to-setting-up-your-first-application-a6d8a1ae414](https://app.milanote.com/1TCRmJ1l6DQc9j?p=MvLpa208xI4)"><i>How to get steam games for free! NO BS!</i></a></li>
+  <li><a href="[https://app.milanote.com/1TCRmJ1l6DQc9j?p=MvLpa208xI4]"><i>How to get steam games for free! NO BS!</i></a></li>
 </ul>
