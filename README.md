@@ -44,5 +44,5 @@
 
 <h3>My most recent articles</h3>
 <ul>
-  <li><a href="[https://app.milanote.com/1TCRmJ1l6DQc9j?p=MvLpa208xI4]"><i>How to get steam games for free! NO BS!</i></a></li>
+  <li><a href="https://app.milanote.com/1TCRmJ1l6DQc9j?p=MvLpa208xI4"><i>How to get steam games for free! NO BS!</i></a></li>
 </ul>
