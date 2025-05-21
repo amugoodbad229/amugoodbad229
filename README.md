@@ -22,7 +22,7 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3FC088?style=flat-square&logo=supabase&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img alt="Paddle" src="https://img.shields.io/badge/-Paddle%20(Payment%20Gateway)-F7931E?style=flat-square&logo=creditcard&logoColor=white" />
+  <img alt="Paddle" src="https://img.shields.io/badge/-Paddle-F7931E?style=flat-square&logo=creditcard&logoColor=white" />
   <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
   <img alt="Google Gemini" src="https://img.shields.io/badge/-Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
   <img alt="ANSYS" src="https://img.shields.io/badge/-ANSYS-F25022?style=flat-square&logo=ansys&logoColor=white" />
