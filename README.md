@@ -22,10 +22,9 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3FC088?style=flat-square&logo=supabase&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img alt="Paddle (Payment Gateway)" src="https://img.shields.io/badge/-Paddle%20(Payment%20Gateway)-F7931E?style=flat-square&logo=creditcard&logoColor=white" />
+  <img alt="Paddle" src="https://img.shields.io/badge/-Paddle%20(Payment%20Gateway)-F7931E?style=flat-square&logo=creditcard&logoColor=white" />
   <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
   <img alt="Google Gemini" src="https://img.shields.io/badge/-Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
-  <img alt="Anthropic Claude" src="https://img.shields.io/badge/-Anthropic%20Claude-6B49D8?style=flat-square&logo=openai&logoColor=white" />
   <img alt="ANSYS" src="https://img.shields.io/badge/-ANSYS-F25022?style=flat-square&logo=ansys&logoColor=white" />
   <img alt="XFLR5" src="https://img.shields.io/badge/-XFLR5-404040?style=flat-square&logo=github&logoColor=white" />
   <img alt="PVsyst" src="https://img.shields.io/badge/-PVsyst-FFD700?style=flat-square&logo=solarpanel&logoColor=white" />
@@ -41,5 +40,4 @@
   <img alt="Microsoft Office" src="https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" />
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
   <img alt="Overleaf" src="https://img.shields.io/badge/-Overleaf-47A472?style=flat-square&logo=overleaf&logoColor=white" />
-  <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
 </p>
