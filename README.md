@@ -8,14 +8,11 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Github Actions" src="https://img.shields.io/badge/-Github%20Actions-222222?style=flat-square&logo=githubactions&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3FC088?style=flat-square&logo=supabase&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img alt="Paddle" src="https://img.shields.io/badge/-Paddle-F7931E?style=flat-square&logo=creditcard&logoColor=white" />
   <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
   <img alt="Google Gemini" src="https://img.shields.io/badge/-Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
   <img alt="ANSYS" src="https://img.shields.io/badge/-ANSYS-F25022?style=flat-square&logo=ansys&logoColor=white" />
@@ -29,8 +26,6 @@
   <img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=matlab&logoColor=white" />
   <img alt="LabVIEW" src="https://img.shields.io/badge/-LabVIEW-FFDC00?style=flat-square&logo=nationalinstruments&logoColor=black" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img alt="Microsoft Office" src="https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" />
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
   <img alt="Overleaf" src="https://img.shields.io/badge/-Overleaf-47A472?style=flat-square&logo=overleaf&logoColor=white" />
 </p>
 
