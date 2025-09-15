@@ -1,6 +1,6 @@
 ## Hi 👋
 
-### Mechanical Engineer with a passion for robotics, aerodynamics, BTMS, renewable energy, and applying technology to solve real-world problems.
+### Mechanical Engineer with a passion for robotics, aerodynamics, BTMS, renewable energy, and applying technology to solve real-world problems
 
 ![](https://komarev.com/ghpvc/?username=amugoodbad229&color=red)
 
