@@ -1,4 +1,4 @@
-## I am a no BS guy
+## NO BS kinda guy
 
 ### Mechanical Engineer with a passion for robotics, aerodynamics, renewable energy, and applying technology to solve real-world problems
 
