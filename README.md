@@ -1,4 +1,4 @@
-## Hi 👋
+## I am a no BS guy
 
 ### Mechanical Engineer with a passion for robotics, aerodynamics, BTMS, renewable energy, and applying technology to solve real-world problems
 
