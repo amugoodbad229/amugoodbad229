@@ -23,7 +23,7 @@
 <h3>Recent Blogs</h3>
 <ul>
   <li><a href="https://app.milanote.com/1TCRmJ1l6DQc9j?p=MvLpa208xI4"><i>How to get steam games for free! NO BS!</i></a></li>
-  <li><a href="https://www.facebook.com/AymanKing2020/posts/pfbid0LxeVtgH8X66UYgxXpXTyNJfC8jEW5CXoc98Xxkywt9XNz4DcgA6ko1f8QxPEEX6cl"><i>How to create computer vision program using vision agent?</i></a></li>
+  <li><a href="https://www.facebook.com/AymanKing2020/posts/pfbid0LxeVtgH8X66UYgxXpXTyNJfC8jEW5CXoc98Xxkywt9XNz4DcgA6ko1f8QxPEEX6cl"><i>How to create computer vision program using vision agent!</i></a></li>
   <li><a href="https://www.facebook.com/AymanKing2020/posts/pfbid02tmyBfw8qkS2UdxPhPDJVTjkgehBf1MhxE8QWnNPaGB1WENr9CXZTBfMqBpL5r8isl"><i>The most advanced robot by EngineAI!</i></a></li>
 </ul>
 
