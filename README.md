@@ -17,7 +17,7 @@
   <img alt="XFLR5" src="https://img.shields.io/badge/-XFLR5-404040?style=flat-square&logo=github&logoColor=white" />
   <img alt="SolidWorks" src="https://img.shields.io/badge/-SolidWorks-0076A8?style=flat-square&logo=solidworks&logoColor=white" />
   <img alt="Fusion 360" src="https://img.shields.io/badge/-Fusion%20360-EF6722?style=flat-square&logo=autodesk&logoColor=white" />
-  <img alt="Overleaf" src="https://img.shields.io/badge/-Overleaf-47A472?style=flat-square&logo=overleaf&logoColor=white" />
+  <img alt="Latex" src="https://img.shields.io/badge/-Overleaf-47A472?style=flat-square&logo=Latex&logoColor=white" />
 </p>
 
 <h3>Recent Blogs</h3>
