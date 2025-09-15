@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Ayman Khan
+## Hi
 
 ### Mechanical Engineer with a passion for robotics, renewable energy, and applying technology to solve real-world problems.
 
