@@ -1,6 +1,8 @@
 ## 🐱NO BS kinda guy
 
-### Mechanical Engineer with a passion for robotics, aerodynamics, renewable energy, and applying technology to solve real-world problems
+> **Robotics | Aerodynamics | Renewable Energy**  
+> Mechanical Engineer driven by solving real-world problems through innovative technology.
+
 
 ![](https://komarev.com/ghpvc/?username=amugoodbad229&color=red)
 
@@ -15,7 +17,6 @@
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img alt="ANSYS" src="https://img.shields.io/badge/-ANSYS-F25022?style=flat-square&logo=ansys&logoColor=white" />
   <img alt="XFLR5" src="https://img.shields.io/badge/-XFLR5-404040?style=flat-square&logo=github&logoColor=white" />
-  <img alt="SolidWorks" src="https://img.shields.io/badge/-SolidWorks-0076A8?style=flat-square&logo=solidworks&logoColor=white" />
   <img alt="Fusion 360" src="https://img.shields.io/badge/-Fusion%20360-EF6722?style=flat-square&logo=autodesk&logoColor=white" />
   <img alt="Latex" src="https://img.shields.io/badge/-Latex-47A472?style=flat-square&logo=Latex&logoColor=white" />
 </p>
