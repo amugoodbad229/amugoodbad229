@@ -21,6 +21,12 @@
   <img alt="Latex" src="https://img.shields.io/badge/-Latex-47A472?style=flat-square&logo=Latex&logoColor=white" />
 </p>
 
+### About me
+- Building at the intersection of robotics, controls, and aero.
+- Comfortable across Python/C++/ROS, simulation to hardware.
+- I value simple solutions, fast iteration, and solid documentation.
+- Open to collaborating on robotics, UAVs, and renewable energy projects.
+
 <h3>Recent Blogs</h3>
 <ul>
   <li><a href="https://app.milanote.com/1TCRmJ1l6DQc9j?p=MvLpa208xI4"><i>How to get steam games for free!</i></a></li>
