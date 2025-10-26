@@ -1,6 +1,6 @@
 ## 🐱NO BS kinda guy
 
-> **Robotics | Aerodynamics | Renewable Energy**  
+> **Robotics | Aerodynamics | Renewable Energy | AI Enthusiast**  
 > Mechanical Engineer driven by solving real-world problems through innovative technology.
 
 
