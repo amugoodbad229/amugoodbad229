@@ -22,10 +22,9 @@
 </p>
 
 ### About me
-- Building at the intersection of robotics, controls, and aero.
-- Comfortable across Python/C++/ROS, simulation to hardware.
+- Comfortable across Python/TypeScript, and simulation to hardware system
 - I value simple solutions, fast iteration, and solid documentation.
-- Open to collaborating on robotics, UAVs, and renewable energy projects.
+- Open to collaborating on robotics, Control system, and DRL.
 
 <h3>Recent Blogs</h3>
 <ul>
