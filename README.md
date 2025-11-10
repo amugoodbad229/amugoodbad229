@@ -1,7 +1,7 @@
 ## 🐱NO BS kinda guy
 
-> **Robotics | Aerodynamics | Renewable Energy | AI Enthusiast**  
-> Mechanical Engineer driven by solving real-world problems through innovative technology.
+> **Robotics | AI Engineer | Aerodynamics | Renewable Energy**  
+> Mechanical Engineer on a journey to become human again
 
 
 ![](https://komarev.com/ghpvc/?username=amugoodbad229&color=red)
